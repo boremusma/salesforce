@@ -1,0 +1,13 @@
+timeout=10
+
+###########################################
+# base url
+###########################################
+baseURL=http://login.salesforce.com
+
+
+###########################################
+# user types and password
+###########################################
+userName=demo_user@salesforce.com
+password=jVpGt4qiPjVpGt4qiP

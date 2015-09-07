@@ -1,0 +1,6 @@
+tabSetDropDownBtn=//span[@id='tsidLabel']
+tabSetDropDownMenu=//div[@id=tsid-menuItems]
+
+homeTab=//ul[@id='tabBar']//a[text()='Home']
+leadsTab=//ul[@id='tabBar']//a[text()='Leads']
+campainsTab=//ul[@id='tabBar']//a[text()='Campaigns']

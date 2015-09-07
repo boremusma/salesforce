@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="mbp32-bm.local" name="com.salesforce.tests.TestSuiteMain" skipped="0" tests="2" time="94.366" timestamp="2015-09-07T04:18:00">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates//" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/classes" />
+    <property name="user.country.format" value="CA" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020" />
+    <property name="java.runtime.version" value="1.7.0_65-b17" />
+    <property name="user.name" value="quickmobile" />
+    <property name="reports" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/reports" />
+    <property name="user.language" value="en" />
+    <property name="build" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/build" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib" />
+    <property name="ant.project.default-target" value="run_main_test" />
+    <property name="ant.project.name" value="Salesforce_Assessment_Bo" />
+    <property name="java.version" value="1.7.0_65" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="ant.file.Salesforce_Assessment_Bo" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/build.xml" />
+    <property name="java.class.version" value="51.0" />
+    <property name="src" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/src" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/build.xml" />
+    <property name="os.version" value="10.9.5" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="24.65-b04" />
+    <property name="ant.file.type.Salesforce_Assessment_Bo" value="file" />
+    <property name="ant.library.dir" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="eclipse.pdebuild.scripts" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts//" />
+    <property name="user.home" value="/Users/quickmobile" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="/Users/quickmobile/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/548/0/.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="jars" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/jars" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1441599477402 -Declipse.connect.port=50221 -Declipse.pdebuild.home=/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/.// -Declipse.pdebuild.scripts=/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts// -Declipse.pdebuild.templates=/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates// -Dant.home=/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile /Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo/build.xml" />
+    <property name="java.class.path" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-antlr.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-bcel.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-bsf.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-log4j.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-oro.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-regexp.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-resolver.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-apache-xalan2.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-commons-logging.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-commons-net.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-jai.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-javamail.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-jdepend.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-jmf.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-jsch.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-junit.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-junit4.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-launcher.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-netrexx.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-swing.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant-testutil.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/120/0/.cp/lib/antdebug.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/120/0/.cp/lib/remote.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/121/0/.cp/lib/remoteAnt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/lib/tools.jar:/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="eclipse.pdebuild.home" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/.//" />
+    <property name="java.io.tmpdir" value="/var/folders/j2/4zdt7wld5v94c76sqjr27wfr0000gp/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/Users/quickmobile/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/quickmobile/Documents/Salesforce_Assessment_Jordan/Salesforce_Assessment_Bo" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/Users/quickmobile/Downloads/Enide-2015-7-macosx-x64-20150706/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.9.4.v201504302020/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="run_main_test" />
+  </properties>
+  <testcase classname="com.salesforce.tests.MainTest" name="test_a_bonusTest" time="42.731" />
+  <testcase classname="com.salesforce.tests.MainTest" name="test_b_mainTest" time="50.781" />
+  <system-out><![CDATA[2015-09-06 21:18:01,124 [INFO]  (?:?) - config/tests/MainTest is loaded.
+2015-09-06 21:18:01,130 [INFO]  (?:?) - config/tests/MainTest is closed.
+2015-09-06 21:18:01,131 [INFO]  (?:?) - leadName = Mabery, Tenisha
+2015-09-06 21:18:01,132 [INFO]  (?:?) - campaignName = Automation Campaign
+2015-09-06 21:18:01,150 [INFO]  (?:?) - config/pages/LoginPage is loaded.
+2015-09-06 21:18:01,150 [INFO]  (?:?) - config/pages/LoginPage is closed.
+2015-09-06 21:18:01,154 [INFO]  (?:?) - config/config.webdrivergenerator is loaded.
+2015-09-06 21:18:01,155 [INFO]  (?:?) - config/config.webdrivergenerator is closed.
+2015-09-06 21:18:01,155 [INFO]  (?:?) - webDriver info is read from config.webdriver.
+2015-09-06 21:18:01,156 [INFO]  (?:?) - Try to launch Local Web Driver: Firefox
+2015-09-06 21:18:06,636 [INFO]  (?:?) - WebDriver FirefoxDriver: firefox on MAC (e8be9db3-b95b-134a-8803-738a68bc9a3f) is set up.
+ timeout is set up for 1 seconds.
+2015-09-06 21:18:06,637 [INFO]  (?:?) - userNameField = //input[@id='username']
+2015-09-06 21:18:06,644 [INFO]  (?:?) - passwordField = //input[@id='password']
+2015-09-06 21:18:06,644 [INFO]  (?:?) - submitBtn = //button[@id='Login']
+2015-09-06 21:18:06,645 [INFO]  (?:?) - errorMsg = //div[@id='error']
+2015-09-06 21:18:06,646 [INFO]  (?:?) - baseUrl = login.salesforce.com
+2015-09-06 21:18:06,649 [INFO]  (?:?) - config/config.testbaseinfo is loaded.
+2015-09-06 21:18:06,650 [INFO]  (?:?) - config/config.testbaseinfo is closed.
+2015-09-06 21:18:06,650 [INFO]  (?:?) - Read the config.testbaseinfo file.
+2015-09-06 21:18:06,651 [INFO]  (?:?) - Direct to Login Url http://login.salesforce.com
+2015-09-06 21:18:09,059 [INFO]  (?:?) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-06 21:18:09,587 [INFO]  (?:?) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-06 21:18:10,305 [INFO]  (?:?) - Click Submit button and expect to jump to HomePage.
+2015-09-06 21:18:10,546 [INFO]  (?:?) - config/pages/HomePage is loaded.
+2015-09-06 21:18:10,546 [INFO]  (?:?) - config/pages/HomePage is closed.
+2015-09-06 21:18:10,547 [INFO]  (?:?) - homeUrlSegment = null
+2015-09-06 21:18:10,547 [INFO]  (?:?) - tabSetDropDownBtn = //span[@id='tsidLabel']
+2015-09-06 21:18:10,547 [INFO]  (?:?) - leadsTab = //ul[@id='tabBar']//a[text()='Leads']
+2015-09-06 21:18:10,548 [INFO]  (?:?) - tabSetDropDownMenu = //div[@id=tsid-menuItems]
+2015-09-06 21:18:17,226 [INFO]  (?:?) - Select Sales in Tab Set dropdown.
+2015-09-06 21:18:17,293 [INFO]  (?:?) - Click Leads Tab.
+2015-09-06 21:18:17,542 [INFO]  (?:?) - config/pages/LeadsPage is loaded.
+2015-09-06 21:18:17,543 [INFO]  (?:?) - config/pages/LeadsPage is closed.
+2015-09-06 21:18:17,543 [INFO]  (?:?) - addToCampaignBtn = //input[@title='Add to Campaign']
+2015-09-06 21:18:17,544 [INFO]  (?:?) - viewSelector = //select[@title='View:']
+2015-09-06 21:18:17,544 [INFO]  (?:?) - viewSelectorGoBtn = //input[@title='Go!']
+2015-09-06 21:18:17,544 [INFO]  (?:?) - activeNextPageBtn = //div[@class='bottomNav']//a[text()='Next']
+2015-09-06 21:18:18,924 [INFO]  (?:?) - Select the View Filter Dropdown option All Leads
+2015-09-06 21:18:22,160 [INFO]  (?:?) - Check the lead Mabery, Tenisha in leads table.
+2015-09-06 21:18:22,161 [INFO]  (?:?) - Start to search for lead Mabery, Tenisha
+2015-09-06 21:18:33,531 [WARN]  (?:?) - Element with xpath By.xpath: //tr[td[div[a[span[text()='Mabery, Tenisha']]]]] is not visible in 10seconds.
+2015-09-06 21:18:34,365 [INFO]  (?:?) - Lead Mabery, Tenisha found.
+2015-09-06 21:18:34,695 [INFO]  (?:?) - Click Add To Campaign button.
+2015-09-06 21:18:36,129 [INFO]  (?:?) - config/pages/CampaignsPage is loaded.
+2015-09-06 21:18:36,130 [INFO]  (?:?) - config/pages/CampaignsPage is closed.
+2015-09-06 21:18:36,131 [INFO]  (?:?) - pageHeader = //h1[text()='Campaign']
+2015-09-06 21:18:36,131 [INFO]  (?:?) - campaignLookUpBtn = //a[@title='Campaign: Lookup (New Window)']
+2015-09-06 21:18:36,132 [INFO]  (?:?) - addToCampaignBtn = //input[@name='save']
+2015-09-06 21:18:36,132 [INFO]  (?:?) - doneBtn = //input[@title='Done']
+2015-09-06 21:18:36,133 [INFO]  (?:?) - memberStatusSelect = //div[@id='prms_id']/select
+2015-09-06 21:18:36,133 [INFO]  (?:?) - campaignScopeSelector = //select[@id='campaignScope']
+2015-09-06 21:18:36,134 [INFO]  (?:?) - campaignScopeSearchTextField = //input[@placeholder='Search...']
+2015-09-06 21:18:36,134 [INFO]  (?:?) - campaignScopeGoBtn = //input[@title='Go!']
+2015-09-06 21:18:36,237 [INFO]  (?:?) - Launch a Campaign Page.
+2015-09-06 21:18:36,269 [INFO]  (?:?) - Click Campaign Lookup Button.
+2015-09-06 21:18:37,351 [INFO]  (?:?) - Switch to the popup window.
+2015-09-06 21:18:37,604 [INFO]  (?:?) - Select the Campaign View Scope option All Campaigns
+2015-09-06 21:18:38,611 [INFO]  (?:?) - Fill in Automation Campaign to search in Campaign search field.
+2015-09-06 21:18:38,714 [INFO]  (?:?) - Click search campaign Go! button.
+2015-09-06 21:18:39,213 [INFO]  (?:?) - Click Automation Campaign in the search result table.
+2015-09-06 21:18:39,967 [INFO]  (?:?) - Popup window closed, switch back to Campaing page main window.
+2015-09-06 21:18:40,441 [INFO]  (?:?) - Click Add To Campaign button.
+2015-09-06 21:18:41,693 [INFO]  (?:?) - Click Done button.
+2015-09-06 21:18:43,722 [INFO]  (?:?) - config/pages/LeadsPage is loaded.
+2015-09-06 21:18:43,723 [INFO]  (?:?) - config/pages/LeadsPage is closed.
+2015-09-06 21:18:43,723 [INFO]  (?:?) - addToCampaignBtn = //input[@title='Add to Campaign']
+2015-09-06 21:18:43,724 [INFO]  (?:?) - viewSelector = //select[@title='View:']
+2015-09-06 21:18:43,724 [INFO]  (?:?) - viewSelectorGoBtn = //input[@title='Go!']
+2015-09-06 21:18:43,725 [INFO]  (?:?) - activeNextPageBtn = //div[@class='bottomNav']//a[text()='Next']
+2015-09-06 21:18:43,878 [INFO]  (?:?) - PASSED: com.salesforce.tests.MainTest.test_a_bonusTest
+2015-09-06 21:18:43,881 [INFO]  (?:?) - config/tests/MainTest is loaded.
+2015-09-06 21:18:43,881 [INFO]  (?:?) - config/tests/MainTest is closed.
+2015-09-06 21:18:43,882 [INFO]  (?:?) - leadName = Mabery, Tenisha
+2015-09-06 21:18:43,883 [INFO]  (?:?) - campaignName = Automation Campaign
+2015-09-06 21:18:43,884 [INFO]  (?:?) - config/pages/LoginPage is loaded.
+2015-09-06 21:18:43,885 [INFO]  (?:?) - config/pages/LoginPage is closed.
+2015-09-06 21:18:43,885 [INFO]  (?:?) - userNameField = //input[@id='username']
+2015-09-06 21:18:43,886 [INFO]  (?:?) - passwordField = //input[@id='password']
+2015-09-06 21:18:43,887 [INFO]  (?:?) - submitBtn = //button[@id='Login']
+2015-09-06 21:18:43,887 [INFO]  (?:?) - errorMsg = //div[@id='error']
+2015-09-06 21:18:43,888 [INFO]  (?:?) - baseUrl = login.salesforce.com
+2015-09-06 21:18:43,888 [INFO]  (?:?) - Direct to Login Url http://login.salesforce.com
+2015-09-06 21:18:44,860 [INFO]  (?:?) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-06 21:18:45,325 [INFO]  (?:?) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-06 21:18:45,586 [INFO]  (?:?) - Click Submit button and expect to jump to HomePage.
+2015-09-06 21:18:45,770 [INFO]  (?:?) - config/pages/HomePage is loaded.
+2015-09-06 21:18:45,771 [INFO]  (?:?) - config/pages/HomePage is closed.
+2015-09-06 21:18:45,772 [INFO]  (?:?) - homeUrlSegment = null
+2015-09-06 21:18:45,772 [INFO]  (?:?) - tabSetDropDownBtn = //span[@id='tsidLabel']
+2015-09-06 21:18:45,773 [INFO]  (?:?) - leadsTab = //ul[@id='tabBar']//a[text()='Leads']
+2015-09-06 21:18:45,774 [INFO]  (?:?) - tabSetDropDownMenu = //div[@id=tsid-menuItems]
+2015-09-06 21:18:48,889 [INFO]  (?:?) - Select Sales in Tab Set dropdown.
+2015-09-06 21:18:48,936 [INFO]  (?:?) - Click Leads Tab.
+2015-09-06 21:18:49,191 [INFO]  (?:?) - config/pages/LeadsPage is loaded.
+2015-09-06 21:18:49,191 [INFO]  (?:?) - config/pages/LeadsPage is closed.
+2015-09-06 21:18:49,192 [INFO]  (?:?) - addToCampaignBtn = //input[@title='Add to Campaign']
+2015-09-06 21:18:49,192 [INFO]  (?:?) - viewSelector = //select[@title='View:']
+2015-09-06 21:18:49,192 [INFO]  (?:?) - viewSelectorGoBtn = //input[@title='Go!']
+2015-09-06 21:18:49,193 [INFO]  (?:?) - activeNextPageBtn = //div[@class='bottomNav']//a[text()='Next']
+2015-09-06 21:18:50,583 [INFO]  (?:?) - Select the View Filter Dropdown option All Leads
+2015-09-06 21:18:54,158 [INFO]  (?:?) - Click the Del button for lead Mabery, Tenisha
+2015-09-06 21:18:54,158 [INFO]  (?:?) - Start to search for lead Mabery, Tenisha
+2015-09-06 21:19:05,175 [WARN]  (?:?) - Element with xpath By.xpath: //tr[td[div[a[span[text()='Mabery, Tenisha']]]]] is not visible in 10seconds.
+2015-09-06 21:19:06,059 [INFO]  (?:?) - Lead Mabery, Tenisha found.
+2015-09-06 21:19:07,285 [INFO]  (?:?) - Deletion Comfirmed.
+2015-09-06 21:19:07,286 [INFO]  (?:?) - Start to search for lead Mabery, Tenisha
+2015-09-06 21:19:34,663 [WARN]  (?:?) - Element with xpath By.xpath: //div[@class='bottomNav']//a[text()='Next'] is not present in 10seconds.
+2015-09-06 21:19:34,664 [INFO]  (?:?) - Lead Mabery, Tenisha not found in table.
+2015-09-06 21:19:34,664 [INFO]  (?:?) - PASSED: com.salesforce.tests.MainTest.test_b_mainTest
+2015-09-06 21:19:34,958 [INFO]  (?:?) - Local webDriver is closed.
+2015-09-06 21:19:34,959 [INFO]  (?:?) - Local webDriver is closed.
+2015-09-06 21:19:34,960 [INFO]  (?:?) - Total test case running:2
+2015-09-06 21:19:34,960 [INFO]  (?:?) - Total Failed:0
+2015-09-06 21:19:34,961 [INFO]  (?:?) - Total Succeeded:2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

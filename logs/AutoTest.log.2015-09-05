@@ -1,0 +1,536 @@
+2015-09-05 16:48:40,101 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 16:48:40,110 [ERROR]  (test.java:29) - 
+2015-09-05 16:48:40,113 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 16:49:51,419 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 16:50:10,728 [ERROR]  (test.java:29) - 
+2015-09-05 16:51:10,815 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 16:51:10,821 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 16:51:10,825 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 16:51:10,825 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 16:51:10,827 [INFO]  (WebDriverGenerator.java:61) - webDriver info is read from config.webdriver.
+2015-09-05 16:51:10,827 [INFO]  (WebDriverGenerator.java:122) - Try to launch Local Web Driver: Firefox
+2015-09-05 16:51:15,782 [INFO]  (WebDriverGenerator.java:191) - WebDriver FirefoxDriver: firefox on MAC (248a0d57-3308-744a-990c-18065a95a87d) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 16:51:15,782 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 16:51:15,786 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 16:51:15,787 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 16:51:15,787 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 16:51:15,787 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 16:51:15,821 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 16:51:15,822 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 16:51:15,822 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 16:57:39,517 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 16:57:39,538 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 16:57:39,544 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 16:57:39,544 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 16:57:39,546 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 16:57:39,546 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 16:57:44,871 [INFO]  (WebDriverGenerator.java:190) - WebDriver FirefoxDriver: firefox on MAC (63c9c1f1-5fbb-d04a-9083-35666bfc3794) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 16:57:44,923 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 16:57:44,924 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 16:57:44,924 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 16:58:56,225 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 16:58:56,245 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 16:58:56,248 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 16:58:56,248 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 16:58:56,249 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 16:58:56,249 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 16:59:00,900 [INFO]  (WebDriverGenerator.java:190) - WebDriver FirefoxDriver: firefox on MAC (65170f1c-fbd9-9f4f-9f71-99761e1b598d) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 16:59:00,922 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 16:59:00,922 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 16:59:00,922 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:00:39,167 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:00:39,188 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:00:39,191 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:00:39,191 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:00:39,192 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:00:39,192 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:00:45,236 [INFO]  (WebDriverGenerator.java:190) - WebDriver FirefoxDriver: firefox on MAC (ee5d3aa5-1200-dc49-8117-a5219bd321a6) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:00:45,293 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:00:45,294 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:00:45,294 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:04:31,522 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:04:31,542 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:04:31,545 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:04:31,545 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:04:31,546 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:04:31,547 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:04:39,551 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (70654aad-9b9f-2a4c-b76d-45b68cca01d8) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:04:39,565 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:04:39,569 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:04:39,569 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:04:39,569 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:04:39,569 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:04:39,637 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:04:39,637 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:04:39,637 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:07:10,452 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:07:10,468 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:07:10,468 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:08:58,024 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:08:58,029 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:08:58,034 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:08:58,034 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:08:58,051 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:08:58,051 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:09:05,639 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (5d4fddf3-43e9-574a-a10c-2418dc259ece) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:09:05,640 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:09:05,644 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:09:05,644 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:09:05,644 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:09:05,644 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:09:05,717 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:09:05,733 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:09:05,733 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:09:39,206 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:09:39,242 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:09:39,264 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:09:39,265 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:09:39,266 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:09:39,266 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:09:47,471 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (94f7965f-9048-9d43-8564-6e6bb48db030) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:09:47,482 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:09:47,501 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:09:47,501 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:09:47,501 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:09:47,502 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:09:47,598 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:09:47,598 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:09:47,599 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:14:36,733 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:14:36,746 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:14:36,769 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:14:36,769 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:14:36,782 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:14:36,782 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:14:42,980 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (d761b818-0afc-e244-adc7-ba2ba5c60f41) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:14:42,980 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:14:42,985 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:14:42,986 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:14:42,986 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:14:42,986 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:14:42,987 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 17:14:43,031 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:14:43,032 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:14:43,032 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:14:43,034 [ERROR]  (test.java:29) - 
+2015-09-05 17:14:43,037 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 17:15:44,112 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 17:15:44,121 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:15:44,121 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:15:44,125 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:15:44,126 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:15:44,127 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:15:44,128 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:15:47,859 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (0a06e988-c0a9-674c-8018-ea8d1f25e1ef) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:15:47,860 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:15:47,864 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:15:47,865 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:15:47,865 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:15:47,865 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:15:47,866 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:15:47,866 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:15:47,866 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:15:47,868 [ERROR]  (test.java:27) - 
+2015-09-05 17:15:47,870 [INFO]  (BaseTestCase.java:48) - PASSED: com.salesforce.tests.test.mainTest
+2015-09-05 17:16:29,823 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 17:16:29,836 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:16:29,837 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:16:29,842 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:16:29,842 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:16:29,844 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:16:29,844 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:16:33,532 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (cb992bae-c8bb-7e48-85e0-677bfba44b0d) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:16:33,532 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:16:33,536 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:16:33,536 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:16:33,537 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:16:33,537 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:16:37,809 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:16:37,811 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:16:37,814 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:20:13,868 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 17:20:13,876 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:20:13,876 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:20:13,879 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:20:13,880 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:20:13,881 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:20:13,881 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:20:17,640 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (f43fcdfd-27a9-b942-8761-81245b5eaa4b) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:20:17,640 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:20:17,644 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:20:17,644 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:20:17,645 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:20:17,645 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:20:17,646 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:20:17,646 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:20:17,646 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:20:17,648 [ERROR]  (test.java:27) - 
+2015-09-05 17:20:17,650 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 17:20:50,402 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 17:20:50,410 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 17:20:50,410 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 17:20:50,413 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 17:20:50,413 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 17:20:50,414 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 17:20:50,414 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 17:20:54,092 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (eb6996aa-60ac-9449-bf79-991348233ddf) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 17:20:54,093 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 17:20:54,099 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 17:20:54,099 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 17:20:54,099 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 17:20:54,099 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 17:20:54,100 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 17:20:54,101 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 17:20:54,101 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 17:20:54,104 [ERROR]  (test.java:27) - 
+2015-09-05 17:20:54,105 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 20:28:46,225 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:28:46,233 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:28:46,234 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:28:46,236 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:28:46,237 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:28:46,237 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:28:46,238 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:28:50,299 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (ccdb969f-77a0-bd42-b3d6-0b63ea3ea990) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:28:50,300 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:28:50,304 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:28:50,304 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:28:50,304 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:28:50,305 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:28:50,306 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:28:50,306 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:28:50,306 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:28:50,309 [ERROR]  (test.java:27) - 
+2015-09-05 20:28:50,311 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 20:29:39,400 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:29:39,408 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:29:39,409 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:29:39,412 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:29:39,412 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:29:39,413 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:29:39,413 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:29:43,046 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (75ca742b-2cc8-034a-8cd3-921b2030170e) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:29:43,047 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:29:43,052 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:29:43,052 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:29:43,052 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:29:43,053 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:29:47,521 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:29:47,524 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:29:47,527 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:31:25,809 [ERROR]  (test.java:27) - 
+2015-09-05 20:31:25,815 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 20:33:55,068 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:33:55,077 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:33:55,077 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:33:55,080 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:33:55,080 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:33:55,081 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:33:55,081 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:33:58,721 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (4a2e9656-1715-8b46-b3d6-c56be76ef762) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:33:58,721 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:33:58,726 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:33:58,726 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:33:58,726 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:33:58,726 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:33:58,727 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:33:58,727 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:33:58,728 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:33:58,729 [ERROR]  (test.java:27) - 
+2015-09-05 20:33:58,731 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 20:37:40,752 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:37:40,755 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:37:40,756 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:37:40,758 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:37:40,762 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:37:40,763 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:37:40,763 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:37:44,867 [INFO]  (WebDriverGenerator.java:188) - WebDriver FirefoxDriver: firefox on MAC (58cf8066-b576-1640-ac09-ebc2e897c81b) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:37:44,868 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:37:44,872 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:37:44,872 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:37:44,872 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:37:44,872 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:37:44,873 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:37:44,873 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:37:44,873 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:37:44,875 [ERROR]  (test.java:34) - 
+2015-09-05 20:37:44,877 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:null
+2015-09-05 20:43:07,894 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:43:07,904 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:43:07,905 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:43:07,909 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:43:07,909 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:43:07,910 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:43:07,911 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:43:13,221 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (f373baa6-ff43-844e-9180-ab364371a787) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:43:13,222 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:43:13,226 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:43:13,226 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:43:13,226 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:43:13,227 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:43:13,227 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:43:13,228 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:43:13,228 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:43:14,659 [ERROR]  (test.java:27) - f.QueryInterface is not a function
+Command duration or timeout: 1.03 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: f373baa6-ff43-844e-9180-ab364371a787
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 20:43:14,662 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:f.QueryInterface is not a function
+Command duration or timeout: 1.03 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: f373baa6-ff43-844e-9180-ab364371a787
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 20:43:33,466 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:43:33,475 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:43:33,475 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:43:33,478 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:43:33,478 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:43:33,479 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:43:33,479 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:43:36,995 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (2ec2a710-c7ed-f24b-833a-462a33da2534) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:43:36,995 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:43:37,001 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:43:37,002 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:43:37,002 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:43:37,002 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:43:37,003 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:43:37,004 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:43:37,004 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:43:38,045 [ERROR]  (test.java:27) - f.QueryInterface is not a function
+Command duration or timeout: 1.03 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: 2ec2a710-c7ed-f24b-833a-462a33da2534
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 20:43:38,052 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:f.QueryInterface is not a function
+Command duration or timeout: 1.03 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: 2ec2a710-c7ed-f24b-833a-462a33da2534
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 20:44:50,073 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 20:44:50,084 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:44:50,084 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:44:50,088 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 20:44:50,088 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 20:44:50,090 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 20:44:50,091 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 20:44:53,488 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (02678e0b-945e-7742-96df-da30cdb74ebe) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 20:44:53,488 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:44:53,492 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:44:53,492 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:44:53,493 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:44:53,493 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:44:53,493 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 20:44:53,494 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 20:44:53,494 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 20:44:58,826 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 20:44:58,827 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 20:44:58,827 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 20:44:58,827 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 20:44:58,827 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 20:44:58,827 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 20:44:58,827 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 20:44:58,828 [ERROR]  (test.java:27) - com.salesforce.pages.LoginPage cannot be cast to com.salesforce.pages.HomePage
+2015-09-05 20:44:58,829 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:com.salesforce.pages.LoginPage cannot be cast to com.salesforce.pages.HomePage
+2015-09-05 21:39:27,947 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 21:39:27,968 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 21:39:27,968 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 21:39:27,972 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 21:39:27,972 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 21:39:27,973 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 21:39:27,974 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 21:39:34,649 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (6ce14661-24da-be45-866a-7fc4f9e0dcf7) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 21:39:34,650 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 21:39:34,653 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 21:39:34,653 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 21:39:34,654 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 21:39:34,654 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 21:39:34,669 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 21:39:34,669 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 21:39:34,669 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 21:39:34,671 [INFO]  (LoginPage.java:50) - Direct to Login Url http://login.salesforce.com
+2015-09-05 21:39:37,274 [INFO]  (LoginPage.java:55) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-05 21:39:37,560 [INFO]  (LoginPage.java:60) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-05 21:39:37,898 [INFO]  (LoginPage.java:65) - Click Submit button and expect to jump to HomePage.
+2015-09-05 21:39:38,043 [WARN]  (ConfigureHelper.java:40) - config/pages/HomePage does NOT exist!
+
+2015-09-05 21:39:38,044 [INFO]  (BaseTestCase.java:48) - PASSED: com.salesforce.tests.test.mainTest
+2015-09-05 21:46:08,642 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 21:46:08,671 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 21:46:08,671 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 21:46:08,674 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 21:46:08,674 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 21:46:08,675 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 21:46:08,676 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 21:46:14,188 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (822c7930-615f-0a44-8f6f-b4d60d12fb7f) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 21:46:14,189 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 21:46:14,194 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 21:46:14,194 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 21:46:14,194 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 21:46:14,194 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 21:46:14,216 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 21:46:14,217 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 21:46:14,217 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 21:46:14,220 [INFO]  (LoginPage.java:50) - Direct to Login Url http://login.salesforce.com
+2015-09-05 21:46:17,352 [INFO]  (LoginPage.java:55) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-05 21:46:17,715 [INFO]  (LoginPage.java:60) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-05 21:46:18,633 [INFO]  (LoginPage.java:65) - Click Submit button and expect to jump to HomePage.
+2015-09-05 21:46:18,768 [INFO]  (ConfigureHelper.java:37) - config/pages/HomePage is loaded.
+2015-09-05 21:46:18,768 [INFO]  (ConfigureHelper.java:47) - config/pages/HomePage is closed.
+2015-09-05 21:46:18,768 [INFO]  (Base.java:40) - homeUrlSegment = /home/home
+2015-09-05 21:46:20,729 [ERROR]  (test.java:27) - This is not the login page
+2015-09-05 21:46:20,731 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:This is not the login page
+2015-09-05 21:47:11,768 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 21:47:11,802 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 21:47:11,802 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 21:47:11,805 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 21:47:11,805 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 21:47:11,806 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 21:47:11,806 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 21:47:21,986 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (aae8dee8-41b1-1e4f-bcca-1be041b89b2f) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 21:47:22,006 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 21:47:22,025 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 21:47:22,026 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 21:47:22,026 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 21:47:22,026 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 21:47:22,045 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 21:47:22,045 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 21:47:22,060 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 21:47:22,062 [INFO]  (LoginPage.java:50) - Direct to Login Url http://login.salesforce.com
+2015-09-05 21:47:24,952 [INFO]  (LoginPage.java:55) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-05 21:47:25,406 [INFO]  (LoginPage.java:60) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-05 21:47:26,227 [INFO]  (LoginPage.java:65) - Click Submit button and expect to jump to HomePage.
+2015-09-05 21:47:30,901 [ERROR]  (test.java:27) - jQuery is not defined
+Command duration or timeout: 2.86 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: aae8dee8-41b1-1e4f-bcca-1be041b89b2f
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 21:47:31,254 [ERROR]  (BaseTestCase.java:40) - FAILED: com.salesforce.tests.test.mainTest 
+ Error Info:jQuery is not defined
+Command duration or timeout: 2.86 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'mbp32-bm.local', ip: '192.168.1.119', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.7.0_65'
+Session ID: aae8dee8-41b1-1e4f-bcca-1be041b89b2f
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.0}]
+2015-09-05 22:25:29,269 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 22:25:29,314 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 22:25:29,315 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 22:25:29,351 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 22:25:29,351 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 22:25:29,365 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 22:25:29,365 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 22:25:39,090 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (1b0fa677-d376-0b49-be0b-69188692b89b) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 22:25:39,091 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 22:25:39,095 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 22:25:39,096 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 22:25:39,096 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 22:25:39,096 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 22:25:39,109 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 22:25:39,110 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 22:25:39,110 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 22:25:39,112 [INFO]  (LoginPage.java:50) - Direct to Login Url http://login.salesforce.com
+2015-09-05 22:25:40,759 [INFO]  (LoginPage.java:55) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-05 22:25:41,168 [INFO]  (LoginPage.java:60) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-05 22:25:42,771 [INFO]  (LoginPage.java:65) - Click Submit button and expect to jump to HomePage.
+2015-09-05 22:25:42,896 [INFO]  (ConfigureHelper.java:37) - config/pages/HomePage is loaded.
+2015-09-05 22:25:42,896 [INFO]  (ConfigureHelper.java:47) - config/pages/HomePage is closed.
+2015-09-05 22:25:42,896 [INFO]  (Base.java:40) - homeUrlSegment = null
+2015-09-05 22:25:42,897 [INFO]  (Base.java:40) - tabSetDropDownBtn = //span[@id='tsidLabel']
+2015-09-05 22:25:49,791 [INFO]  (BaseTestCase.java:48) - PASSED: com.salesforce.tests.test.mainTest
+2015-09-05 22:51:00,053 [WARN]  (ConfigureHelper.java:40) - config/tests/test does NOT exist!
+
+2015-09-05 22:51:00,062 [INFO]  (ConfigureHelper.java:37) - config/pages/LoginPage is loaded.
+2015-09-05 22:51:00,062 [INFO]  (ConfigureHelper.java:47) - config/pages/LoginPage is closed.
+2015-09-05 22:51:00,065 [INFO]  (ConfigureHelper.java:37) - config/config.webdrivergenerator is loaded.
+2015-09-05 22:51:00,065 [INFO]  (ConfigureHelper.java:47) - config/config.webdrivergenerator is closed.
+2015-09-05 22:51:00,066 [INFO]  (WebDriverGenerator.java:60) - webDriver info is read from config.webdriver.
+2015-09-05 22:51:00,066 [INFO]  (WebDriverGenerator.java:121) - Try to launch Local Web Driver: Firefox
+2015-09-05 22:51:03,791 [INFO]  (WebDriverGenerator.java:183) - WebDriver FirefoxDriver: firefox on MAC (fe1b104c-6367-ed46-824e-a0d551feb8d5) is set up.
+ timeout is set up for 1 seconds.
+2015-09-05 22:51:03,791 [INFO]  (Base.java:40) - userNameField = //input[@id='username']
+2015-09-05 22:51:03,795 [INFO]  (Base.java:40) - passwordField = //input[@id='password']
+2015-09-05 22:51:03,796 [INFO]  (Base.java:40) - submitBtn = //button[@id='Login']
+2015-09-05 22:51:03,796 [INFO]  (Base.java:40) - errorMsg = //div[@id='error']
+2015-09-05 22:51:03,796 [INFO]  (Base.java:40) - baseUrl = login.salesforce.com
+2015-09-05 22:51:03,797 [INFO]  (ConfigureHelper.java:37) - config/config.testbaseinfo is loaded.
+2015-09-05 22:51:03,797 [INFO]  (ConfigureHelper.java:47) - config/config.testbaseinfo is closed.
+2015-09-05 22:51:03,797 [INFO]  (TestBaseInfo.java:21) - Read the config.testbaseinfo file.
+2015-09-05 22:51:03,800 [INFO]  (LoginPage.java:50) - Direct to Login Url http://login.salesforce.com
+2015-09-05 22:51:05,503 [INFO]  (LoginPage.java:55) - Fill in Login Page UserName field with value demo_user@salesforce.com
+2015-09-05 22:51:05,822 [INFO]  (LoginPage.java:60) - Fill in Login Page Password field with value jVpGt4qiPjVpGt4qiP
+2015-09-05 22:51:06,043 [INFO]  (LoginPage.java:65) - Click Submit button and expect to jump to HomePage.
+2015-09-05 22:51:06,250 [INFO]  (ConfigureHelper.java:37) - config/pages/HomePage is loaded.
+2015-09-05 22:51:06,250 [INFO]  (ConfigureHelper.java:47) - config/pages/HomePage is closed.
+2015-09-05 22:51:06,250 [INFO]  (Base.java:40) - homeUrlSegment = null
+2015-09-05 22:51:06,250 [INFO]  (Base.java:40) - tabSetDropDownBtn = //span[@id='tsidLabel']
+2015-09-05 22:51:06,251 [INFO]  (Base.java:40) - leadsTab = //ul[@id='tabBar']//a[text()='Leads']
+2015-09-05 22:51:06,251 [INFO]  (Base.java:40) - tabSetDropDownMenu = //div[@id=tsid-menuItems]
+2015-09-05 22:51:14,786 [INFO]  (ConfigureHelper.java:37) - config/pages/LeadsPage is loaded.
+2015-09-05 22:51:14,786 [INFO]  (ConfigureHelper.java:47) - config/pages/LeadsPage is closed.
+2015-09-05 22:51:14,786 [INFO]  (Base.java:40) - pageHeader = //h1[@class='pageType'][text()='Leads']
+2015-09-05 22:51:17,740 [INFO]  (BaseTestCase.java:48) - PASSED: com.salesforce.tests.test.mainTest

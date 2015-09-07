@@ -1,0 +1,14 @@
+###########################################
+# Selenium Grid Server settings
+###########################################
+#gridURL=
+
+
+###########################################
+# webDriver settings
+###########################################
+webDriverTimeout=1
+
+webDriverType=Firefox
+#webDriverType=Chrome
+#webDriverType=Safari

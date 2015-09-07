@@ -1,0 +1,6 @@
+userNameField=//input[@id='username']
+passwordField=//input[@id='password']
+submitBtn=//button[@id='Login']
+errorMsg=//div[@id='error']
+
+baseUrl=login.salesforce.com
