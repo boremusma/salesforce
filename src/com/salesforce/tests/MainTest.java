@@ -1,6 +1,5 @@
 package com.salesforce.tests;
 
-import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.FixMethodOrder;
@@ -12,6 +11,7 @@ import com.salesforce.pages.CampaignsPage;
 import com.salesforce.pages.HomePage;
 import com.salesforce.pages.LeadsPage;
 import com.salesforce.pages.LoginPage;
+import com.salesforce.utils.ScreenShotHelper;
 import com.salesforce.utils.TestBaseInfo;
 import com.salesforce.utils.WebDriverGenerator;
 
@@ -31,7 +31,15 @@ public class MainTest extends BaseTestCase {
 
 	@Before
 	public void init() {
-		loginP = new LoginPage();
+		try{
+			loginP = new LoginPage();
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+			ScreenShotHelper.shotEntirePage(
+					WebDriverGenerator.getLocalDriver(), className,
+					name.getMethodName());
+			Assert.fail(e.getMessage());
+		}
 	}
 
 	@Test
@@ -48,24 +56,30 @@ public class MainTest extends BaseTestCase {
 
 		} catch (Exception e) {
 			logger.error(e.getMessage());
+			ScreenShotHelper.shotEntirePage(
+					WebDriverGenerator.getLocalDriver(), className,
+					name.getMethodName());
 			Assert.fail(e.getMessage());
 		}
 	}
 
 	@Test
 	public void test_b_mainTest() {
-		homeP = loginP.login(TestBaseInfo.getUserName(), TestBaseInfo.getPassword());
-		homeP.selectTabSetSales();
-		leadsP = homeP.clickLeadsTab();
-		leadsP.selectAllLeadsView();
-		leadsP.clickDeleteTheTableRow(leadName, true);
-		Assert.assertTrue("The Lead has been deleted and cannot be located though the whole table.",
+		try{
+			homeP = loginP.login(TestBaseInfo.getUserName(), TestBaseInfo.getPassword());
+			homeP.selectTabSetSales();
+			leadsP = homeP.clickLeadsTab();
+			leadsP.selectAllLeadsView();
+			leadsP.clickDeleteTheTableRow(leadName, true);
+			Assert.assertTrue("The Lead has been deleted and cannot be located though the whole table.",
 				leadsP.isLeadNotDisplayInTable(leadName));
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+			ScreenShotHelper.shotEntirePage(
+			WebDriverGenerator.getLocalDriver(), className,
+			name.getMethodName());
+			Assert.fail(e.getMessage());
+		}
 	}
 
-	@AfterClass
-	public static void shutdown() {
-		WebDriverGenerator.tearDownLocalWebDriver();
-
-	}
 }

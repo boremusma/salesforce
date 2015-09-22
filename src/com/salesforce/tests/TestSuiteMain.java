@@ -18,7 +18,8 @@ import com.salesforce.utils.WebDriverGenerator;
  */
 
 @RunWith(Suite.class)
-@Suite.SuiteClasses({ MainTest.class })
+@Suite.SuiteClasses({MainTest.class, 
+	DataDrivenTest.class })
 public class TestSuiteMain {
 
 	private static Logger logger = Logger.getLogger(TestSuiteMain.class);

@@ -116,6 +116,17 @@ public class ExecutionHelper {
 			alert.dismiss();
 		}
 	}
+	
+	/**
+	 * Check if the frame is ready to be switch to and switch to it.
+	 * @param driver
+	 * @param by
+	 */
+	public static void switchToFrameWhenReady(WebDriver driver,By by){
+		WebDriverWait wait = new WebDriverWait(driver, timeout);
+		driver = wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(by));
+		driver.switchTo().frame(driver.findElement(by));
+	}
 
 	/**
 	 * Check If any alert is present
